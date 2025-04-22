@@ -84,9 +84,33 @@ Includes full loan information, family details, KYC, and disbursement status.
 
 ---
 ### 🧾 Center-Wise Client Details
-![Center-Wise Details](screenshots/centerwiseclientdetails.jpg)
+![Center-Wise Details](Screenshots/centerwiseclientdetails.jpg)
 
+### 📋 Center Detail Summary
+![Center Details](Screenshots/centerdetails.jpg)
 
+### 👥 Client List View
+![Client List](Screenshots/clientinfolist.jpg)
+
+### 📑 Client Details
+![Client Info](Screenshots/clientinfodetails.jpg)
+
+### 💼 Loan Status - Clients
+![Client Loan List](Screenshots/clientlist.jpg)
+![Loan Detail](Screenshots/loanlist.jpg)
+
+### 💸 Loan Disbursement Monitoring
+![Disbursement Monitor](Screenshots/loandisbursmentmonitring.jpg)
+
+### 📋 PPI/CHI Module
+![CHI Remarks](Screenshots/chidetaisl.jpg) ![PPI Client List](Screenshots/ppichi.jpg) ![PPI Details](Screenshots/ppidetails.jpg)
+
+- Mismatch Remarks Screen  
+- Client List (PPI Module)  
+- Household Survey (PPI Details)  
+  
+
+---
 
 
 

@@ -1,63 +1,65 @@
-# 💼 Payroll Management System (Angular + Nebular)
+# Cashpor Risk Loan Management System
 
-The **Payroll Management System** is an enterprise-grade web application built using **Angular** and **Nebular UI**. It is designed to automate and streamline salary processing, reporting, employee data management, and administrative actions for large organizations.
-
----
-
-## 🔑 Login Page
-
-A secure and intuitive login interface that allows users to authenticate using their Region ID, Staff ID, and password.
-
-![Login Screen](screenshots/login.png)
+An Android‑based Loan Management System built with Java and Material Design components. Cashpor Risk helps branch staff manage loans, view reports, search clients, and monitor collections—all from a single, responsive mobile app.
 
 ---
 
-## 💰 Salary Management Dashboard
+## Table of Contents
 
-This is the core view for payroll processing. It includes detailed data like **Gross Salary**, **Deductions**, **Net Salary**, **Staff Designation**, and **Branch Name**. Users can filter, reset, import, or download Excel templates for bulk operations.
-
-![Salary Dashboard](screenshots/salary.png)
-
----
-
-## 🧑‍💼 Staff Summary Report
-
-Displays comprehensive employee information such as **Staff ID**, **Name**, **Designation**, **City**, **Phone Number**, **Account Number**, and **Employment Status** (e.g., Active or Drop Out). Filter by date range or branch.
-
-![Staff Details](screenshots/staff.png)
+- [Features](#features)  
+- [Screenshots](#screenshots)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+- [Usage](#usage)  
+- [Technologies Used](#technologies-used)  
+- [Contributing](#contributing)  
+- [License](#license)
 
 ---
 
-## 🏢 Branch Information
+## Features
 
-Allows the admin to manage branch-level details such as **Branch ID**, **Branch Name**, **District**, **Block**, and the **Creation Date**. Provides both view and edit capabilities for each branch.
-
-![Branch Details](screenshots/branch.png)
-
----
-
-## 🛠 Technologies Used
-
-- **Frontend Framework**: Angular 15+
-- **UI Kit**: Nebular UI (Akveo)
-- **State Management**: RxJS, Services
-- **Routing**: Angular Router
-- **Styling**: SCSS, Responsive Design
-- **Authentication**: Secure Token-Based Login
-- **Data Operations**: Excel Import/Export, REST APIs
+- **Secure Login** — Staff authentication via Staff ID & Password  
+- **Dashboard** — Quick access to branch & staff reports, client information  
+- **Client Loan Status** — Check outstanding loans & repayment schedules  
+- **Center Details** — View center‑wise client lists and performance  
+- **PPI & CHI Details** — Insurance and health information panels  
+- **Credit Client Search** — Find clients by name or ID  
+- **Day‑Wise Branch Report** — Daily disbursement & collection summaries  
+- **CGT / GRT Monitoring** — Monitor group guarantees & risk metrics  
+- **Center‑Wise Client Details** — Drill into each center’s client data  
+- **Logout** — Securely end your session  
 
 ---
 
-## ✨ Features
+## Screenshots
 
-- 🔐 Secure login and session handling
-- 📊 Full salary report for all employees with downloadable templates
-- 🧾 Staff-level tracking with Dropout/Active status
-- 🏦 Branch and department master management
-- 📤 Excel upload/download for mass salary entries
-- 📅 Month close and month initialization logic built-in
-- 🧑 Role-based access and detailed logs via audit trail
+### 1. Sign In Screen
+Staff enter their credentials to access the app.
+
+![Login Screen](screenshots/login.jpg)  
 
 ---
 
+### 2. Main Dashboard
+From here you can navigate to all reports and client modules.
 
+![Dashboard Screen](screenshots/dashboard.jpg)  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Android Studio **Arctic Fox** or newer  
+- Android SDK **API Level 21+**  
+- Java Development Kit **1.8+**  
+
+### Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your‑username/cashpor‑risk‑android.git
+   cd cashpor‑risk‑android

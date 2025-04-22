@@ -8,13 +8,10 @@ An Android‑based Loan Management System built with Java and Material Design co
 
 - [Features](#features)  
 - [Screenshots](#screenshots)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
 - [Usage](#usage)  
 - [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)
+
+
 
 ---
 
@@ -48,8 +45,20 @@ From here you can navigate to all reports and client modules.
 ![Dashboard Screen](screenshots/dashboard.jpg)  
 
 ---
+### 📍 Branch & Region Selection
+- Select region & branch to filter reports and monitor data.
 
-## Getting Started
+![Branch Region Select](screenshots/branch&region.jpg)
+![Region Modal](screenshots/region.jpg)
+![Branch Modal](screenshots/branch.jpg)
+
+---
+
+### 📊 Loan Utilization Filter
+- Select Region > Branch > Center to view client-level loan status.
+
+![Loan Utilization](screenshots/selectall.jpg)
+
 
 ### Prerequisites
 
@@ -57,9 +66,4 @@ From here you can navigate to all reports and client modules.
 - Android SDK **API Level 21+**  
 - Java Development Kit **1.8+**  
 
-### Installation
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your‑username/cashpor‑risk‑android.git
-   cd cashpor‑risk‑android

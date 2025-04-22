@@ -35,29 +35,29 @@ An Android‑based Loan Management System built with Java and Material Design co
 ### 1. Sign In Screen
 Staff enter their credentials to access the app.
 
-![Login Screen](screenshots/login.jpg)  
+![Login Screen](Screenshots/login.jpg)  
 
 ---
 
 ### 2. Main Dashboard
 From here you can navigate to all reports and client modules.
 
-![Dashboard Screen](screenshots/dashboard.jpg)  
+![Dashboard Screen](Screenshots/dashboard.jpg)  
 
 ---
 ### 📍 Branch & Region Selection
 - Select region & branch to filter reports and monitor data.
 
-![Branch Region Select](screenshots/branch&region.jpg)
-![Region Modal](screenshots/region.jpg)
-![Branch Modal](screenshots/branch.jpg)
+![Branch Region Select](Screenshots/branch&region.jpg)
+![Region Modal](Screenshots/region.jpg)
+![Branch Modal](Screenshots/branch.jpg)
 
 ---
 
 ### 📊 Loan Utilization Filter
 - Select Region > Branch > Center to view client-level loan status.
 
-![Loan Utilization](screenshots/selectall.jpg)
+![Loan Utilization](Screenshots/selectall.jpg)
 
 
 ### Prerequisites

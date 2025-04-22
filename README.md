@@ -83,7 +83,8 @@ Includes full loan information, family details, KYC, and disbursement status.
 ![Client List](Screenshots/clientinfolist.jpg) ![Client Info](Screenshots/clientinfodetails.jpg)
 
 ---
-
+### 🧾 Center-Wise Client Details
+![Center-Wise Details](screenshots/centerwiseclientdetails.jpg)
 
 
 

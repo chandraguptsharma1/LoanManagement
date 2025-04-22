@@ -63,9 +63,7 @@ From here you can navigate to all reports and client modules.
 ### 🏘️ Center List
 Center-wise listing with center ID and name.
 
-![Center List](Screenshots/centerlist.jpg)
-
----
+![Center List](Screenshots/centerlist.jpg) ![Center Detail](Screenshots/centerdetails.jpg)
 
 ### 📋 Center Details
 Detailed center metrics:  
@@ -74,9 +72,6 @@ Detailed center metrics:
 - Dormant Clients  
 - Outstanding Loan Amount  
 - Center PAR
-
-![Center Detail](Screenshots/centerdetails.jpg)
-
 
 
 ### 👤 Client List View

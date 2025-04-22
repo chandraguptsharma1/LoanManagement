@@ -63,7 +63,7 @@ From here you can navigate to all reports and client modules.
 ### 🏘️ Center List
 Center-wise listing with center ID and name.
 
-![Center List](screenshots/centerlist.jpg)
+![Center List](Screenshots/centerlist.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Detailed center metrics:
 - Outstanding Loan Amount  
 - Center PAR
 
-![Center Detail](screenshots/centerdetails.jpg)
+![Center Detail](Screenshots/centerdetails.jpg)
 
 
 ### Prerequisites

@@ -60,6 +60,24 @@ From here you can navigate to all reports and client modules.
 ![Loan Utilization](Screenshots/selectall.jpg)
 
 
+### 🏘️ Center List
+Center-wise listing with center ID and name.
+
+![Center List](screenshots/centerlist.jpg)
+
+---
+
+### 📋 Center Details
+Detailed center metrics:  
+- Meeting Time/Day  
+- Active Loan Clients  
+- Dormant Clients  
+- Outstanding Loan Amount  
+- Center PAR
+
+![Center Detail](screenshots/centerdetails.jpg)
+
+
 ### Prerequisites
 
 - Android Studio **Arctic Fox** or newer  

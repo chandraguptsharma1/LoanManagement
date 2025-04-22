@@ -78,6 +78,19 @@ Detailed center metrics:
 ![Center Detail](Screenshots/centerdetails.jpg)
 
 
+### 👤 Client List View
+- Searchable list of all registered clients in the branch/center.
+
+![Client List](Screenshots/clientinfolist.jpg)
+
+---
+
+### 📑 Individual Client Details
+Includes full loan information, family details, KYC, and disbursement status.
+
+![Client Info](Screenshots/clientinfodetails.jpg)
+
+
 ### Prerequisites
 
 - Android Studio **Arctic Fox** or newer  
